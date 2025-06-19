@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "CompuKids-Website"
+		},
+		{
+			"path": "Avanger App"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Avanger App"
+	}
+}
